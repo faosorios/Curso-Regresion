@@ -1,4 +1,4 @@
-# Curso de Análisis de Regresion
+# Curso de Análisis de Regresión
 
 Este repositorio contiene el material del curso **MAT-266: Análisis de Regresión** (Universidad Técnica Federico Santa María).
 
