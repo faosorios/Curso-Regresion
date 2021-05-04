@@ -24,5 +24,5 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 - Clase 4: Algunas distribuciones no centrales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-04.pdf), [[video]](https://youtu.be/47FKyNMA48U)
 - Clase 5: Distribuciones de formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-05.pdf), [[video]](https://youtu.be/smMcKx0unss)
 - Clase 6: Independencia entre formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-06.pdf), [[video]](https://youtu.be/dGavYYgza28)
-- Clase 7: Modelo lineal [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-07.pdf), [[video]](https://youtu.be/0gBTpgDJkOk)
+- Clase 7: Modelo lineal [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-07.pdf), [[video I]](https://youtu.be/0gBTpgDJkOk), [[video II]](https://youtu.be/sgRGccpsUGw)
 - Clase 8: Aspectos numéricos de estimación LS [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-08.pdf)
