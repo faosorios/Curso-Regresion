@@ -29,7 +29,8 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 
 ## Evaluaciones
 
-- **2021:** [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2021.pdf)
+Evaluaciones del semestre 1 de **2021*:
+- [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2021.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P1_2021.pdf)
 
 Evaluaciones de años anteriores:
 - **2011:** [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2011.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C2_2011.pdf), [[Certamen 3]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C3_2011.pdf)
