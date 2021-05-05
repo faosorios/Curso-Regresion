@@ -29,7 +29,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 
 ## Evaluaciones
 
-Evaluaciones del semestre 1 de **2021**:
+Evaluaciones del 1er semestre de **2021**:
 - [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2021.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P1_2021.pdf)
 
 Evaluaciones de años anteriores:
