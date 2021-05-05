@@ -26,3 +26,11 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 - Clase 6: Independencia entre formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-06.pdf), [[video]](https://youtu.be/dGavYYgza28)
 - Clase 7: Modelo lineal [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-07.pdf), [[video I]](https://youtu.be/0gBTpgDJkOk), [[video II]](https://youtu.be/sgRGccpsUGw)
 - Clase 8: Aspectos numéricos de estimación LS [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-08.pdf)
+
+## Evaluaciones
+
+- **2021:** [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2021.pdf)
+
+Evaluaciones de años anteriores:
+- **2011:** [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2011.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C2_2011.pdf), [[Certamen 3]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C3_2011.pdf)
+- **2014:** [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2014.pdf), [[Certamen 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C2_2014.pdf)
