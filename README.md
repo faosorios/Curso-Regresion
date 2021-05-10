@@ -1,4 +1,5 @@
 # MAT-266: Análisis de Regresión
+![GitHub last commit](https://img.shields.io/github/last-commit/faosorios/Curso-Regresion)
 
 Este repositorio contiene el material del curso **MAT-266: Análisis de Regresión** (Universidad Técnica Federico Santa María).
 
