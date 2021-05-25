@@ -27,7 +27,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 - Clase 6: Independencia entre formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-06.pdf), [[video]](https://youtu.be/dGavYYgza28)
 - Clase 7: Modelo lineal [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-07.pdf), [[video I]](https://youtu.be/0gBTpgDJkOk), [[video II]](https://youtu.be/sgRGccpsUGw)
 - Clase 8: Aspectos numéricos de estimación LS [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-08.pdf), [[video I]](https://youtu.be/FcaoJhKezsI), [[video II]](https://youtu.be/C9c60erRyvE)
-- Clase 9: Estimación bajo restricciones lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-09.pdf)
+- Clase 9: Estimación bajo restricciones lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-09.pdf), [[video I]](https://youtu.be/jM6DUXqv7Ug)
 
 ## Evaluaciones
 
