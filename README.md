@@ -29,7 +29,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 - Clase 8: Aspectos numéricos de estimación LS [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-08.pdf), [[video 1]](https://youtu.be/FcaoJhKezsI), [[video 2]](https://youtu.be/C9c60erRyvE)
 - Clase 9: Estimación bajo restricciones lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-09.pdf), [[video 1]](https://youtu.be/jM6DUXqv7Ug), [[video 2]](https://youtu.be/sTFZZdyMr9Y)
 - Clase 10: Test de hipótesis y regiones de confianza [[slides 1]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-10.pdf), [[slides 2]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-11.pdf), [[video 1]](https://youtu.be/tnadL3DIiHg), [[video 2]](https://youtu.be/-EHtSR49e6o)
-- Clase 11: Restricciones lineales estocásticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-12.pdf)
+- Clase 11: Restricciones lineales estocásticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-12.pdf), [[video]](https://youtu.be/-L3MiuPuiuE)
 
 ## Evaluaciones
 
