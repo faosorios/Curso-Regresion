@@ -32,6 +32,12 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 - Clase 11: Restricciones lineales estocásticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-12.pdf), [[video]](https://youtu.be/-L3MiuPuiuE)
 - Clase 12: Colinealidad, regresión por componentes principales y estimador ridge [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-13.pdf), [[video 1]](https://youtu.be/zJQOI41pjWM)
 
+## Conjuntos de datos
+
+- Puntajes adaptativos de Gesell: [[gesell.csv]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/gesell.csv), [[gesell.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/gesell.rda)
+- Cemento Portland: [[portland.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/portland.rda)
+- Producción textil en los Países Bajos: [[textile.csv]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/textile.csv), [[textile.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/textile.rda)
+
 ## Evaluaciones
 
 Evaluaciones del 1er semestre de **2021**:
