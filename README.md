@@ -38,6 +38,10 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 - Cemento Portland: [[portland.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/portland.rda)
 - Producción textil en los Países Bajos: [[textile.csv]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/textile.csv), [[textile.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/textile.rda)
 
+## Scripts 
+
+- Cálculo del número condición escalado: [[scaled.condition.R]](https://github.com/faosorios/Curso-Regresion/blob/main/scripts/scaled.condition.R)
+
 ## Evaluaciones
 
 Evaluaciones del 1er semestre de **2021**:
