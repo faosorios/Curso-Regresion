@@ -32,6 +32,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 - Clase 11: Restricciones lineales estocásticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-12.pdf), [[video]](https://youtu.be/-L3MiuPuiuE)
 - Clase 12: Colinealidad, regresión por componentes principales y estimador ridge [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-13.pdf), [[video 1]](https://youtu.be/zJQOI41pjWM), [[video 2]](https://youtu.be/6ZjRuYGNcQs)
 - Clase 13: Errores correlacionados y estimación de funciones de varianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-14.pdf), [[video]](https://youtu.be/jgUDYUxbl_I)
+- Clase 14: Transformaciones estabilizadoras de varianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-15.pdf)
 
 ## Conjuntos de datos
 
@@ -42,6 +43,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 ## Scripts 
 
 - Cálculo del número condición escalado: [[scaled.condition.R]](https://github.com/faosorios/Curso-Regresion/blob/main/scripts/scaled.condition.R)
+- Estimación Box-Cox en regresión: [[boxcox.lm.R]](https://github.com/faosorios/Curso-Regresion/blob/main/scripts/boxcox.lm.R)
 
 ## Evaluaciones
 
