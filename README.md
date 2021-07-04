@@ -44,6 +44,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 
 - Cálculo del número condición escalado: [[scaled.condition.R]](https://github.com/faosorios/Curso-Regresion/blob/main/scripts/scaled.condition.R)
 - Estimación Box-Cox en regresión: [[boxcox.lm.R]](https://github.com/faosorios/Curso-Regresion/blob/main/scripts/boxcox.lm.R)
+- QQ-plot con envelopes en regresión lineal: [[envelope.lm.R]](https://github.com/faosorios/Curso-Regresion/blob/main/scripts/envelope.lm.R)
 
 ## Evaluaciones
 
