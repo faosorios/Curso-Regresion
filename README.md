@@ -35,6 +35,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 - Clase 14: Transformaciones estabilizadoras de varianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-15.pdf), [[video]](https://youtu.be/ueqIOiSY4Fo)
 - Clase 15: Análisis de residuos y leverages [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-16.pdf), [[video]](https://youtu.be/kYDxsUCWTuY)
 - Clase 16: Diagnóstico de influencia en regresión [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-17.pdf), [[video]](https://youtu.be/WGdmvSel-xw)
+- Clase 17: Métodos para estimación robusta en regresión [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-18.pdf), [[video]](https://youtu.be/fcUW2773lwQ)
 
 ## Conjuntos de datos
 
