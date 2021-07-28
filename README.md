@@ -36,6 +36,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 - Clase 15: Análisis de residuos y leverages [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-16.pdf), [[video]](https://youtu.be/kYDxsUCWTuY)
 - Clase 16: Diagnóstico de influencia en regresión [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-17.pdf), [[video]](https://youtu.be/WGdmvSel-xw)
 - Clase 17: Métodos para estimación robusta en regresión [[slides 1]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-18.pdf), [[slides 2]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-19.pdf), [[video 1]](https://youtu.be/fcUW2773lwQ), [[video 2]](https://youtu.be/fqEndyLykqs)
+- Clase 18: Selección del mejor conjunto de regresores [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-20.pdf)
 
 ## Conjuntos de datos
 
