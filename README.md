@@ -15,7 +15,7 @@ El curso proporciona elementos básicos e inferenciales del modelo de regresión
 
 ## Material de clases
 
-El contenido del curso se encuentra en desarrollo y cambios pueden ser introducidos en cualquier momento. Las **notas de clase** se pueden encontrar en el siguiente [link](https://github.com/faosorios/Curso-Regresion/blob/main/notas%20de%20clase/analisis-regresion.pdf)
+El contenido del curso se encuentra en desarrollo y cambios pueden ser introducidos en cualquier momento. Las [**notas de clase**](https://github.com/faosorios/Curso-Regresion/blob/main/notas%20de%20clase/analisis-regresion.pdf) se pueden encontrar en el siguiente [[link]](https://github.com/faosorios/Curso-Regresion/blob/main/notas%20de%20clase/analisis-regresion.pdf)
 
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en: [lista de YouTube](https://youtube.com/playlist?list=PL7ZDxVK6zhI-lTZmYVXxr36dm-EW9KbL8)
 
