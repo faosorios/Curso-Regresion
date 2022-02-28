@@ -53,11 +53,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se en
 
 ## Evaluaciones
 
-Evaluaciones del 1er semestre de **2021**:
-- [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2021.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P1_2021.pdf)
-- [[Certamen 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C2_2021.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P2_2021.pdf)
-- [[Certamen 3]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C3_2021.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P3_2021.pdf)
-
 Evaluaciones de años anteriores:
+- **2021**: [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2021.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P1_2021.pdf) | [[Certamen 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C2_2021.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P2_2021.pdf) | [[Certamen 3]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C3_2021.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P3_2021.pdf)
 - **2014:** [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2014.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P1_2014.pdf) | [[Certamen 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C2_2014.pdf)
 - **2011:** [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2011.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P1_2011.pdf) | [[Certamen 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C2_2011.pdf), [[Pauta de Corrección]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P2_2011.pdf) | [[Certamen 3]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C3_2011.pdf)
