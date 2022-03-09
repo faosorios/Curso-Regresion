@@ -19,7 +19,7 @@ El contenido del curso se encuentra en desarrollo y cambios pueden ser introduci
 
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en: [lista de YouTube](https://youtube.com/playlist?list=PL7ZDxVK6zhI9s0WNgtjC47ZzFeFcXEsbD)
 
-- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-01.pdf), [[video]](https://youtu.be/Q1WwqIpQEUk)
+- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-01.pdf), [[video]](https://youtu.be/xdnGHa1WoCY)
 
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021:
 
