@@ -17,26 +17,30 @@ El curso proporciona elementos básicos e inferenciales del modelo de regresión
 
 El contenido del curso se encuentra en desarrollo y cambios pueden ser introducidos en cualquier momento. Las [**notas de clase**](https://github.com/faosorios/Curso-Regresion/blob/main/notas%20de%20clase/analisis-regresion.pdf) se pueden encontrar en el siguiente [[link]](https://github.com/faosorios/Curso-Regresion/blob/main/notas%20de%20clase/analisis-regresion.pdf)
 
-Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en: [lista de YouTube](https://youtube.com/playlist?list=PL7ZDxVK6zhI-lTZmYVXxr36dm-EW9KbL8)
+Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2020 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en: [lista de YouTube](https://youtube.com/playlist?list=PL7ZDxVK6zhI-lTZmYVXxr36dm-EW9KbL8)
 
-- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-01.pdf), [[video]](https://youtu.be/Q1WwqIpQEUk)
-- Clase 2: Distribución normal multivariada [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-02.pdf), [[video 1]](https://youtu.be/DZzvJe5hJQ4), [[video 2]](https://youtu.be/i6Uw4BmJu5s)
-- Clase 3: Distribuciones de contornos elípticos [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-03.pdf), [[video]](https://youtu.be/MkiKjTMdiaY)
-- Clase 4: Algunas distribuciones no centrales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-04.pdf), [[video]](https://youtu.be/47FKyNMA48U)
-- Clase 5: Distribuciones de formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-05.pdf), [[video]](https://youtu.be/smMcKx0unss)
-- Clase 6: Independencia entre formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-06.pdf), [[video]](https://youtu.be/dGavYYgza28)
-- Clase 7: Modelo lineal [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-07.pdf), [[video 1]](https://youtu.be/0gBTpgDJkOk), [[video 2]](https://youtu.be/sgRGccpsUGw)
-- Clase 8: Aspectos numéricos de estimación LS [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-08.pdf), [[video 1]](https://youtu.be/FcaoJhKezsI), [[video 2]](https://youtu.be/C9c60erRyvE)
-- Clase 9: Estimación bajo restricciones lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-09.pdf), [[video 1]](https://youtu.be/jM6DUXqv7Ug), [[video 2]](https://youtu.be/sTFZZdyMr9Y)
-- Clase 10: Test de hipótesis y regiones de confianza [[slides 1]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-10.pdf), [[slides 2]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-11.pdf), [[video 1]](https://youtu.be/tnadL3DIiHg), [[video 2]](https://youtu.be/-EHtSR49e6o)
-- Clase 11: Restricciones lineales estocásticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-12.pdf), [[video]](https://youtu.be/-L3MiuPuiuE)
-- Clase 12: Colinealidad, regresión por componentes principales y estimador ridge [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-13.pdf), [[video 1]](https://youtu.be/zJQOI41pjWM), [[video 2]](https://youtu.be/6ZjRuYGNcQs)
-- Clase 13: Errores correlacionados y estimación de funciones de varianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-14.pdf), [[video]](https://youtu.be/jgUDYUxbl_I)
-- Clase 14: Transformaciones estabilizadoras de varianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-15.pdf), [[video]](https://youtu.be/ueqIOiSY4Fo)
-- Clase 15: Análisis de residuos y leverages [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-16.pdf), [[video]](https://youtu.be/kYDxsUCWTuY)
-- Clase 16: Diagnóstico de influencia en regresión [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-17.pdf), [[video]](https://youtu.be/WGdmvSel-xw)
-- Clase 17: Métodos para estimación robusta en regresión [[slides 1]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-18.pdf), [[slides 2]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-19.pdf), [[video 1]](https://youtu.be/fcUW2773lwQ), [[video 2]](https://youtu.be/fqEndyLykqs)
-- Clase 18: Selección del mejor conjunto de regresores [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-20.pdf), [[video]](https://youtu.be/IOZeWjoI7Mk)
+- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-01.pdf), [[video]](https://youtu.be/Q1WwqIpQEUk)
+
+Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021:
+
+- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-01.pdf), [[video]](https://youtu.be/Q1WwqIpQEUk)
+- Clase 2: Distribución normal multivariada [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-02.pdf), [[video 1]](https://youtu.be/DZzvJe5hJQ4), [[video 2]](https://youtu.be/i6Uw4BmJu5s)
+- Clase 3: Distribuciones de contornos elípticos [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-03.pdf), [[video]](https://youtu.be/MkiKjTMdiaY)
+- Clase 4: Algunas distribuciones no centrales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-04.pdf), [[video]](https://youtu.be/47FKyNMA48U)
+- Clase 5: Distribuciones de formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-05.pdf), [[video]](https://youtu.be/smMcKx0unss)
+- Clase 6: Independencia entre formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-06.pdf), [[video]](https://youtu.be/dGavYYgza28)
+- Clase 7: Modelo lineal [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-07.pdf), [[video 1]](https://youtu.be/0gBTpgDJkOk), [[video 2]](https://youtu.be/sgRGccpsUGw)
+- Clase 8: Aspectos numéricos de estimación LS [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/2021/diapositivas/MAT266_slides-08.pdf), [[video 1]](https://youtu.be/FcaoJhKezsI), [[video 2]](https://youtu.be/C9c60erRyvE)
+- Clase 9: Estimación bajo restricciones lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/2021/diapositivas/MAT266_slides-09.pdf), [[video 1]](https://youtu.be/jM6DUXqv7Ug), [[video 2]](https://youtu.be/sTFZZdyMr9Y)
+- Clase 10: Test de hipótesis y regiones de confianza [[slides 1]](https://github.com/faosorios/Curso-Regresion/blob/main/2021/diapositivas/MAT266_slides-10.pdf), [[slides 2]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/MAT266_slides-11.pdf), [[video 1]](https://youtu.be/tnadL3DIiHg), [[video 2]](https://youtu.be/-EHtSR49e6o)
+- Clase 11: Restricciones lineales estocásticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-12.pdf), [[video]](https://youtu.be/-L3MiuPuiuE)
+- Clase 12: Colinealidad, regresión por componentes principales y estimador ridge [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-13.pdf), [[video 1]](https://youtu.be/zJQOI41pjWM), [[video 2]](https://youtu.be/6ZjRuYGNcQs)
+- Clase 13: Errores correlacionados y estimación de funciones de varianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-14.pdf), [[video]](https://youtu.be/jgUDYUxbl_I)
+- Clase 14: Transformaciones estabilizadoras de varianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-15.pdf), [[video]](https://youtu.be/ueqIOiSY4Fo)
+- Clase 15: Análisis de residuos y leverages [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-16.pdf), [[video]](https://youtu.be/kYDxsUCWTuY)
+- Clase 16: Diagnóstico de influencia en regresión [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-17.pdf), [[video]](https://youtu.be/WGdmvSel-xw)
+- Clase 17: Métodos para estimación robusta en regresión [[slides 1]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-18.pdf), [[slides 2]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-19.pdf), [[video 1]](https://youtu.be/fcUW2773lwQ), [[video 2]](https://youtu.be/fqEndyLykqs)
+- Clase 18: Selección del mejor conjunto de regresores [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-20.pdf), [[video]](https://youtu.be/IOZeWjoI7Mk)
 
 ## Conjuntos de datos
 
