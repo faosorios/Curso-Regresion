@@ -21,8 +21,8 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se en
 
 - Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-01.pdf), [[video]](https://youtu.be/xdnGHa1WoCY)
 - Clase 2: Elementos de álgebra matricial [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-02.pdf), [[video 1]](https://youtu.be/DE0_FrVRRHc), [[video 2]](https://youtu.be/zf6DuZ_3paE)
-- Clase 3: Diferenciación matricial [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-03.pdf)
-- Clase 4: Distribución normal multivariada [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-04.pdf)
+- Clase 3: Diferenciación matricial [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-03.pdf), [[video]](https://youtu.be/U45-QQXexQ8)
+- Clase 4: Distribución normal multivariada [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-04.pdf), [[video]](https://youtu.be/HLRTKdZmaSg)
 
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021:
 
