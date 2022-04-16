@@ -25,7 +25,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se en
 - Clase 4: Distribución normal multivariada [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-04.pdf), [[video 1]](https://youtu.be/HLRTKdZmaSg), [[video 2]](https://youtu.be/M-5PX3kKt6g)
 - Clase 5: Distribuciones de contornos elípticos [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-05.pdf), [[video]](https://youtu.be/_9uYnvKwABY)
 - Clase 6: Algunas distribuciones no centrales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-06.pdf), [[video]](https://youtu.be/AxthUCWbYgE)
-- Clase 7: Distribución de formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-07.pdf)
+- Clase 7: Distribución de formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-07.pdf), [[video]](https://youtu.be/ju0aR7XyV6w)
 
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021:
 
