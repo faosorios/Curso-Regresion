@@ -26,6 +26,9 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se en
 - Clase 5: Distribuciones de contornos elípticos [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-05.pdf), [[video]](https://youtu.be/_9uYnvKwABY)
 - Clase 6: Algunas distribuciones no centrales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-06.pdf), [[video]](https://youtu.be/AxthUCWbYgE)
 - Clase 7: Distribución de formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-07.pdf), [[video]](https://youtu.be/ju0aR7XyV6w)
+- Clase 8: Independencia entre formas cuadraticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-08.pdf)
+- Clase 9: Modelos lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-09.pdf)
+- Clase 10: Aspectos numéricos de estimación LS en regresión lineal [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-10.pdf)
 
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021:
 
