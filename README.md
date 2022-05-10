@@ -29,6 +29,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se en
 - Clase 8: Independencia entre formas cuadraticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-08.pdf)
 - Clase 9: Modelos lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-09.pdf)
 - Clase 10: Aspectos numéricos de estimación LS en regresión lineal [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-10.pdf)
+- Clase 11: Estimación sujeto a restricciones lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-11.pdf)
 
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021:
 
