@@ -56,6 +56,10 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2021:
 - Clase 17: Métodos para estimación robusta en regresión [[slides 1]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-18.pdf), [[slides 2]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-19.pdf), [[video 1]](https://youtu.be/fcUW2773lwQ), [[video 2]](https://youtu.be/fqEndyLykqs)
 - Clase 18: Selección del mejor conjunto de regresores [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-20.pdf), [[video]](https://youtu.be/IOZeWjoI7Mk)
 
+## Recomendaciones para escribir un reporte estadístico
+
+- Recomendaciones y breve reporte estadístico [[Sec. 1.6 y 1.7 de Jorgensen (1993)]](https://github.com/faosorios/Curso-Regresion/blob/main/reportes_estadisticos.pdf)
+
 ## Conjuntos de datos
 
 - Puntajes adaptativos de Gesell: [[gesell.csv]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/gesell.csv), [[gesell.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/gesell.rda)
