@@ -20,9 +20,9 @@ El contenido del curso se encuentra en desarrollo y cambios pueden ser introduci
 Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en: [lista de YouTube](https://youtube.com/playlist?list=PL7ZDxVK6zhI9s0WNgtjC47ZzFeFcXEsbD)
 
 - Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-01.pdf)
-- Clase 2: Elementos de álgebra matricial [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-02.pdf), [[video 1]](https://youtu.be/DE0_FrVRRHc)
+- Clase 2: Elementos de álgebra matricial [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-02.pdf)
 - Clase 3: Diferenciación matricial [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-03.pdf)
-- Clase 4: Distribución normal multivariada [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-04.pdf), [[video 1]](https://youtu.be/HLRTKdZmaSg)
+- Clase 4: Distribución normal multivariada [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-04.pdf)
 - Clase 5: Distribuciones de contornos elípticos [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-05.pdf)
 - Clase 6: Algunas distribuciones no centrales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-06.pdf)
 - Clase 7: Distribución de formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-07.pdf)
