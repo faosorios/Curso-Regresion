@@ -36,9 +36,9 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se en
 - Clase 15: Colinealidad, regresión por componentes principales y estimador ridge [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-15.pdf)
 - Clase 16: Errores correlacionados y estimación de funciones de varianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-16.pdf)
 - Clase 17: Transformaciones estabilizadoras de varianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-17.pdf)
-- Clase 18: Análisis de residuos y leverages [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-16.pdf)
-- Clase 19: Diagnóstico de influencia en regresión [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-17.pdf)
-- Clase 20: Métodos para estimación robusta en regresión [[slides 1]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-18.pdf), [[slides 2]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-19.pdf)
+- Clase 18: Análisis de residuos y leverages [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-18.pdf)
+- Clase 19: Diagnóstico de influencia en regresión [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-19.pdf)
+- Clase 20: Métodos para estimación robusta en regresión [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-20.pdf)
 - Clase 21: Selección del mejor conjunto de regresores [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2021/MAT266_slides-20.pdf)
 
 ## Recomendaciones para escribir un reporte estadístico
