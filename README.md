@@ -39,7 +39,7 @@ Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se en
 - Clase 18: Análisis de residuos y leverages [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-18.pdf)
 - Clase 19: Diagnóstico de influencia en regresión [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-19.pdf)
 - Clase 20: Métodos para estimación robusta en regresión [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-20.pdf)
-- Clase 21: Selección del mejor conjunto de regresores [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-21.pdf)
+- Clase 21: Métodos para selección de modelos [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-21.pdf)
 
 ## Recomendaciones para escribir un reporte estadístico
 
