@@ -17,7 +17,7 @@ El curso proporciona elementos básicos e inferenciales del modelo de regresión
 
 El contenido del curso se encuentra en desarrollo y cambios pueden ser introducidos en cualquier momento. Las [**notas de clase**](https://github.com/faosorios/Curso-Regresion/blob/main/notas%20de%20clase/analisis-regresion.pdf) se pueden encontrar en el siguiente [[link]](https://github.com/faosorios/Curso-Regresion/blob/main/notas%20de%20clase/analisis-regresion.pdf)
 
-Las **diapositivas** y **sesiones de clases** para el 1er semestre de 2022 se encuentran disponibles a continuación. Adicionalmente, los videos se encuentran disponibles en: [[lista de YouTube]](https://youtube.com/playlist?list=PL7ZDxVK6zhI9s0WNgtjC47ZzFeFcXEsbD) | [[lista año 2021]](https://youtube.com/playlist?list=PL7ZDxVK6zhI-lTZmYVXxr36dm-EW9KbL8)
+Las **diapositivas** para el 1er semestre de 2022 se encuentran disponibles a continuación.
 
 - Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-01.pdf)
 - Clase 2: Elementos de álgebra matricial [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-02.pdf)
