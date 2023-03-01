@@ -13,9 +13,11 @@ El curso proporciona elementos básicos e inferenciales del modelo de regresión
 * Seber, G.A.F., Lee, A.J. (2003). *Linear Regression Analysis* (2nd Ed.). Wiley, New York.
 * Weisberg, S. (2005). *Applied Linear Regression* (3rd Ed.). Wiley, New York.
 
-## Material de clases
+## Notas de clase
 
 El contenido del curso se encuentra en desarrollo y cambios pueden ser introducidos en cualquier momento. Las [**notas de clase**](https://github.com/faosorios/Curso-Regresion/blob/main/notas%20de%20clase/analisis-regresion.pdf) se pueden encontrar en el siguiente [[link]](https://github.com/faosorios/Curso-Regresion/blob/main/notas%20de%20clase/analisis-regresion.pdf)
+
+## Material de clase
 
 Las **diapositivas** para el 1er semestre de 2022 se encuentran disponibles a continuación.
 
