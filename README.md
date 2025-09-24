@@ -1,7 +1,7 @@
-# MAT-266: Análisis de Regresión
+# Análisis de Regresión
 ![GitHub last commit](https://img.shields.io/github/last-commit/faosorios/Curso-Regresion)
 
-Este repositorio contiene el material del curso **MAT-266: Análisis de Regresión** (Universidad Técnica Federico Santa María).
+Este repositorio contiene el material del curso **IECD-325: Modelos Lineales y Diseños de Experimentos** (Universidad de Valparaiso).
 
 ## Descripción de la asignatura
 
@@ -11,7 +11,8 @@ El curso proporciona elementos básicos e inferenciales del modelo de regresión
 
 * Hocking, R. (1996). *Methods and Applications of Linear Models*. Wiley, New York.
 * Seber, G.A.F., Lee, A.J. (2003). *Linear Regression Analysis* (2nd Ed.). Wiley, New York.
-* Weisberg, S. (2005). *Applied Linear Regression* (3rd Ed.). Wiley, New York.
+* Sheather, S.J. (2009). *A Modern Approach to Regression with R*. Springer, New York.
+* Weisberg, S. (2013). *Applied Linear Regression* (4th Ed.). Wiley, New York.
 
 ## Notas de clase
 
@@ -60,7 +61,7 @@ Las **diapositivas** para el 1er semestre de 2022 se encuentran disponibles a co
 - Estimación Box-Cox en regresión: [[boxcox.lm.R]](https://github.com/faosorios/Curso-Regresion/blob/main/scripts/boxcox.lm.R)
 - QQ-plot con envelopes en regresión lineal: [[envelope.lm.R]](https://github.com/faosorios/Curso-Regresion/blob/main/scripts/envelope.lm.R)
 
-## Evaluaciones
+## Evaluaciones de años amteriores
 
 - **2023**: [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2023.pdf), [[Pauta 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P1_2023.pdf) | [[Certamen 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C2_2023.pdf), [[Pauta 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P2_2023.pdf)
 - **2022**: [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2022.pdf), [[Pauta 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P1_2022.pdf) | [[Certamen 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C2_2022.pdf), [[Pauta 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P2_2022.pdf) | [[Certamen 3]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C3_2022.pdf), [[Pauta 3]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P3_2022.pdf)
