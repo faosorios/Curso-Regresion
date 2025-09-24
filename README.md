@@ -20,7 +20,7 @@ El contenido del curso se encuentra en desarrollo y cambios pueden ser introduci
 
 ## Material de clase
 
-Las **diapositivas** para el 1er semestre de 2022 se encuentran disponibles a continuación.
+Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a continuación.
 
 - Sesion 0: Introducción [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-00.pdf)
 - Sesion 1: Regresión lineal simple [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-01.pdf)
