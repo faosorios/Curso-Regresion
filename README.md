@@ -22,27 +22,17 @@ El contenido del curso se encuentra en desarrollo y cambios pueden ser introduci
 
 Las **diapositivas** para el 1er semestre de 2022 se encuentran disponibles a continuación.
 
-- Clase 1: Introducción [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-01.pdf)
-- Clase 2: Elementos de álgebra matricial [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-02.pdf)
-- Clase 3: Diferenciación matricial [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-03.pdf)
-- Clase 4: Distribución normal multivariada [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-04.pdf)
-- Clase 5: Distribuciones de contornos elípticos [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-05.pdf)
-- Clase 6: Algunas distribuciones no centrales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-06.pdf)
-- Clase 7: Distribución de formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-07.pdf)
-- Clase 8: Independencia entre formas cuadraticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-08.pdf)
-- Clase 9: Modelos lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-09.pdf)
-- Clase 10: Aspectos numéricos de estimación LS en regresión lineal [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-10.pdf)
-- Clase 11: Estimación sujeto a restricciones lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-11.pdf)
-- Clase 12: Test de hipótesis y regiones de confianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-12.pdf)
-- Clase 13: Ejemplos de test de hipótesis en modelos lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-13.pdf)
-- Clase 14: Restricciones lineales estocásticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-14.pdf)
-- Clase 15: Colinealidad, regresión por componentes principales y estimador ridge [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-15.pdf)
-- Clase 16: Errores correlacionados y estimación de funciones de varianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-16.pdf)
-- Clase 17: Transformaciones estabilizadoras de varianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-17.pdf)
-- Clase 18: Análisis de residuos y leverages [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-18.pdf)
-- Clase 19: Diagnóstico de influencia en regresión [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-19.pdf)
-- Clase 20: Métodos para estimación robusta en regresión [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-20.pdf)
-- Clase 21: Métodos para selección de modelos [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2022/MAT266_slides-21.pdf)
+- Sesion 0: Introducción [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-00.pdf)
+- Sesion 1: Regresión lineal simple [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-01.pdf)
+- Sesion 2: Elementos de álgebra matricial [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-02.pdf)
+- Sesion 3: Diferenciación matricial [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-03.pdf)
+- Sesion 4: Distribución normal multivariada [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-04.pdf)
+- Sesion 5: Distribuciones de contornos elípticos [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-05.pdf)
+- Sesion 6: Formas cuadráticas [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-06.pdf)
+- Sesion 7: Modelos lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-07.pdf)
+- Sesion 8: Aspectos numéricos de estimación LS en regresión lineal [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-08.pdf)
+- Sesion 9: Estimación sujeto a restricciones lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-09.pdf)
+- Sesion 10: Test de hipótesis y regiones de confianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-10.pdf)
 
 ## Recomendaciones para escribir un reporte estadístico
 
