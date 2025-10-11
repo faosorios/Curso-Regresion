@@ -51,7 +51,10 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Estimación Box-Cox en regresión: [[boxcox.lm.R]](https://github.com/faosorios/Curso-Regresion/blob/main/scripts/boxcox.lm.R)
 - QQ-plot con envelopes en regresión lineal: [[envelope.lm.R]](https://github.com/faosorios/Curso-Regresion/blob/main/scripts/envelope.lm.R)
 
-## Evaluaciones de años amteriores
+## Evaluaciones
+- **2025**: [[Prueba 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/IECD325-P1_2025.pdf), [[Pauta 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/IECD325-R1_2025.pdf)
+
+## Evaluaciones de años anteriores
 
 - **2023**: [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2023.pdf), [[Pauta 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P1_2023.pdf) | [[Certamen 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C2_2023.pdf), [[Pauta 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P2_2023.pdf)
 - **2022**: [[Certamen 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C1_2022.pdf), [[Pauta 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P1_2022.pdf) | [[Certamen 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C2_2022.pdf), [[Pauta 2]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P2_2022.pdf) | [[Certamen 3]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-C3_2022.pdf), [[Pauta 3]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/MAT266-P3_2022.pdf)
