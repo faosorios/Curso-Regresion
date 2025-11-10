@@ -44,6 +44,7 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Cemento Portland: [[portland.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/portland.rda)
 - Producción textil en los Países Bajos: [[textile.csv]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/textile.csv), [[textile.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/textile.rda)
 - Herencia de altura: [[Heights.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/Heights.rda)
+- Rentabilidades mensuales de la viña Concha y Toro [[cyt.rda]](datasets/cyt.rda)
 
 ## Scripts 
 
