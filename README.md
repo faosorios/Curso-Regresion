@@ -53,7 +53,7 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - QQ-plot con envelopes en regresión lineal: [[envelope.lm.R]](https://github.com/faosorios/Curso-Regresion/blob/main/scripts/envelope.lm.R)
 
 ## Evaluaciones
-- **2025**: [[Prueba 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/IECD325-P1_2025.pdf), [[Pauta 1]](https://github.com/faosorios/Curso-Regresion/blob/main/evaluaciones/IECD325-R1_2025.pdf)
+- **2025**: [[Prueba 1]](evaluaciones/IECD325-P1_2025.pdf), [[Pauta 1]](evaluaciones/IECD325-R1_2025.pdf) | [[Prueba 2]](evaluaciones/IECD325-P2_2025.pdf), [[Pauta 2]](evaluaciones/IECD325-R2_2025.pdf)
 
 ## Evaluaciones de años anteriores
 
