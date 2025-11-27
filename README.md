@@ -33,6 +33,16 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Sesion 8: Aspectos numéricos de estimación LS en regresión lineal [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-08.pdf)
 - Sesion 9: Estimación sujeto a restricciones lineales [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-09.pdf)
 - Sesion 10: Test de hipótesis y regiones de confianza [[slides]](https://github.com/faosorios/Curso-Regresion/blob/main/diapositivas/2025/slides-10.pdf)
+- Sesion 11: Ejemplos de test de hipótesis en modelos lineales [[slides]](diapositivas/2025/slides-11.pdf)
+- Sesion 12: Restricciones lineales estocásticas [[slides]](diapositivas/2025/slides-12.pdf)
+- Sesion 13: Colinealidad [[slides]](diapositivas/2025/slides-13.pdf)
+- Sesion 14: Errores correlacionados y estimación de funciones de varianza [[slides]](diapositivas/2025/slides-14.pdf)
+- Sesion 15: Transformaciones estabilizadoras de varianza [[slides]](diapositivas/2025/slides-15.pdf)
+- Sesion 16: Análisis de residuos y leverages [[slides]](diapositivas/2025/slides-16.pdf)
+- Sesion 17: Diagnóstico de influencia en regresión lineal [[slides]](diapositivas/2025/slides-17.pdf)
+- Sesion 18: M-estimación en análisis de regresión [[slides]](diapositivas/2025/slides-18.pdf)
+- Sesion 19: Métodos para selección de modelos [[slides]](diapositivas/2025/slides-19.pdf)
+- Sesion 11: Métodos de seleccion automática [[slides]](diapositivas/2025/slides-20.pdf)
 
 ## Recomendaciones para escribir un reporte estadístico
 
