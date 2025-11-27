@@ -42,7 +42,7 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 - Sesion 17: Diagnóstico de influencia en regresión lineal [[slides]](diapositivas/2025/slides-17.pdf)
 - Sesion 18: M-estimación en análisis de regresión [[slides]](diapositivas/2025/slides-18.pdf)
 - Sesion 19: Métodos para selección de modelos [[slides]](diapositivas/2025/slides-19.pdf)
-- Sesion 11: Métodos de seleccion automática [[slides]](diapositivas/2025/slides-20.pdf)
+- Sesion 20: Métodos de seleccion automática [[slides]](diapositivas/2025/slides-20.pdf)
 
 ## Recomendaciones para escribir un reporte estadístico
 
