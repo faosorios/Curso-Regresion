@@ -51,6 +51,7 @@ Las **diapositivas** para el 2do semestre de 2025 se encuentran disponibles a co
 ## Conjuntos de datos
 
 - Puntajes adaptativos de Gesell: [[gesell.csv]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/gesell.csv), [[gesell.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/gesell.rda)
+- Datos de Brownlee: [[stackloss.csv]](datasets/stackloss.csv)
 - Cemento Portland: [[portland.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/portland.rda)
 - Producción textil en los Países Bajos: [[textile.csv]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/textile.csv), [[textile.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/textile.rda)
 - Herencia de altura: [[Heights.rda]](https://github.com/faosorios/Curso-Regresion/blob/main/datasets/Heights.rda)
